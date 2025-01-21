@@ -72,12 +72,14 @@ The **Smart Hostel Security System** is an IoT-based solution designed to enhanc
 - **Cloud Services:** Arduino IoT Cloud, Zapier
 
 ## Contributors
-- [Your Name]
-- Team MicroOps
+- Rahul Kumar Shawn A/L Rajesh Kumar
 
 ## License
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please contact: [your email]
+For any inquiries, please contact: 
+- 82102@siswa.unimas.my (University Affiliated)
+- jaszrks@gmail.com (Personal)
+
 
