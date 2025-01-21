@@ -44,9 +44,6 @@ The **Smart Hostel Security System** is an IoT-based solution designed to enhanc
 - **Pin Constraints:** Analog pins were repurposed to address limited digital pin availability.
 - **Cloud Limitations:** Optimization of cloud variable usage due to free-tier restrictions.
 
-## Achievements
-The project received **full marks** for both the report and presentation, highlighting its innovation, functionality, and comprehensive documentation.
-
 ## Future Improvements
 - Integration of additional sensors (e.g., cameras for visual surveillance).
 - Enhanced cloud capabilities with a premium IoT cloud subscription.
